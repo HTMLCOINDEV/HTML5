@@ -6,7 +6,7 @@ Our new algorithm is based on X15 POW + POS (After 5 years we will be POS).
 
 This new algorithm is design to be adoptable for future applications. HTML5 has a stable & fast system, with robust security capabilities.
 
-http://html5coin.nt
+http://html5coin.net
 
 ## License
 
