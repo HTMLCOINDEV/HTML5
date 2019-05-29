@@ -1,16 +1,16 @@
-## HTMLCOIN [HTML5]
+## HTML5COIN [HTML5]
 
-The new HTMLCOIN (HTML5 as a new symbol & version) is based on a stable system, design to withstand the demands of the entire altcoin community.
+The new HTML5COIN (HTML5 as a new symbol & version) is based on a stable system, design to withstand the demands of the entire altcoin community.
 
 Our new algorithm is based on X15 POW + POS (After 5 years we will be POS).
 
 This new algorithm is design to be adoptable for future applications. HTML5 has a stable & fast system, with robust security capabilities.
 
-http://htmlcoin.com
+http://html5coin.nt
 
 ## License
 
-HTMLCoin is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
+HTML5COIN is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
 
 ## Development and contributions
 
@@ -18,7 +18,7 @@ Our development is based on an professional developer and we will be happy to he
 
 ## Specifications
 
-Name: HTMLCOIN
+Name: HTML5COIN
 Symbol: HTML5 or </>
 Total coin: 90 Billion 
 Block time: 60 seconds 
@@ -31,12 +31,12 @@ Swap: 40% use in transitiong to new coin
 
 ## Quality
 
-Proof of Developer: http://proofofdev.com/project/html-htmlcoin/
-Proof of Developer: http://cryptoasian.com/html-htmlcoin/
+Proof of Developer: http://proofofdev.com/project/html-HTML5COIN/
+Proof of Developer: http://cryptoasian.com/html-HTML5COIN/
 
 ## Algorithm: X15
 
-15 ROUNDS OF SCIENTIFIC HASHING (blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, echo, hamsi, fugue, shabal, whirlpool). You can mine HTMLCOIN with CPU or GPU, we are ASIC RESISTANT.
+15 ROUNDS OF SCIENTIFIC HASHING (blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, echo, hamsi, fugue, shabal, whirlpool). You can mine HTML5COIN with CPU or GPU, we are ASIC RESISTANT.
 
 ## POW Reward
 Total Block: 10,800,000 
@@ -51,19 +51,14 @@ Testnet P2P: 16877
 
 ## Wallet:
  
-WINDOWS: http://seed.htmlcoin.net/HTMLCoin-1.3.2.1-setup.exe
-MAC OS:  http://seed.htmlcoin.net/Htmlcoin-1.3.2.1-Mac.dmg
+WINDOWS: http://seed.html5coin.net/HTML5-master-1.3.1.2-setup.zip 
+MAC OS: http://seed.html5coin.net/Htmlcoin-1.3.1.2-Mac.zip
 
 ## Blockchain 
 
-http://seed.htmlcoin.net/htmlcoin_blockchain.zip
+http://seed.html5coin.net/HTML5COIN-blockchain-23052019.zip
 
 ## Community
 
-Facebook: https://www.facebook.com/groups/htmlcoin/
-Twitter: https://twitter.com/HTMLCOIN
-Reddit: http://www.reddit.com/r/htmlcoin_community/
-Telegram: https://t.me/htmlcoinofficial
-Slack: https://htmlcoin.slack.com/messages
-Forum: https://cryptocointalk.com/topic/17467-htmlcoin-html5-information/
-
+Facebook: https://www.facebook.com/groups/html5coin/
+Twitter: https://twitter.com/HTML5OINNET
